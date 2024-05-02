@@ -11,4 +11,13 @@ Ce projet peut varier en taille et en complexité en fonction du type de portail
 ![image](https://github.com/rniwar/Porte-motoris-/assets/167518957/8efe51ab-0b66-4784-9862-d24139e2d2dd)
 
 
+# Matériels Utilisé: 
+Carte Arduino 
+Servo-moteur
+Capteur de distance
+RFID 
+afficheur LCD 
+
+
+
 
